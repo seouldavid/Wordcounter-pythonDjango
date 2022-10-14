@@ -8,3 +8,6 @@ MY Counter webpage server link
 here:
 
 http://127.0.0.1:8000/
+
+usually server is closed as I will deactivate my server when I am studying.
+If you want to see, please email seouldavid98@gmail.com  
